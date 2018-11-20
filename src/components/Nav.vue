@@ -101,6 +101,13 @@
     </div>
 
     <div class="copyright">Copyright 2018. All Rights Reserved. Design by treesen. 粤ICP备18132385号-1</div>
+    <div style="width:300px;margin:0 auto; padding:20px 0;">
+      <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502003465" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="" style="float:left;" />
+        <img src="/static/ghs.png" style="float:left;">
+        <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">粤公网安备 44030502003465号</p>
+      </a>
+    </div>
+
   </el-container>
 </template>
 <script>
